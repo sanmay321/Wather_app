@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:padding="40dp"
     android:background="@drawable/sanmay"
-    android:scaleX="1"
+    android:scaleX="1.2"
     android:scaleY="0.995"
     tools:context=".MainActivity">
 
